@@ -15,10 +15,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 or try this
+```bash
 (base) ronikulkarni@Ronis-MacBook-Pro Subway_Safety_Insights_With_Sim 2 % streamlit cache clear                         
 (base) ronikulkarni@Ronis-MacBook-Pro Subway_Safety_Insights_With_Sim 2 % python3 -m pip install --upgrade pydeck==0.9.1
 (base) ronikulkarni@Ronis-MacBook-Pro Subway_Safety_Insights_With_Sim 2 % python3 -m streamlit run app.py
-
+```
 The app loads sample CSVs from `data/` so it works instantly.
 
 ## Swap in real data (optional, after the demo)
