@@ -1,0 +1,8 @@
+gtfs_stop_id,station,line,lat,lon,borough
+R16,Times Sq - 42 St,123NRQW7S,40.75529,-73.987495,Manhattan
+A27,125 St,A B C D,40.811109,-73.952343,Manhattan
+G08,Fulton St,2345 A C J Z,40.709416,-74.009569,Manhattan
+M16,Jay St - MetroTech,A C F R,40.692338,-73.987342,Brooklyn
+L19,Bedford Av,L,40.717362,-73.956703,Brooklyn
+S31,74 St - Broadway,7,40.746325,-73.89137,Queens
+S11,Court Sq,E M 7 G,40.747023,-73.945264,Queens
